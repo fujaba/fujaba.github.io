@@ -1,0 +1,6 @@
+fujaba.github.io
+================
+
+This repository holds the compiled version of SDMLib_Documentation for viewing online at
+
+* http://fujaba.github.io
